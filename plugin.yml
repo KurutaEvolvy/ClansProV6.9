@@ -10,4 +10,4 @@ commands:
     permission: clan.command
 permissions:
   clan.command:
-    default: true
+    default: op
